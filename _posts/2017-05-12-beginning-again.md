@@ -1,3 +1,11 @@
+
+---
+layout: post
+title:  “Beginning again“
+date:   2017-05/12 22:45:16 -0700
+categories: jekyll update
+--- 
+
 So I obviously haven't been keeping up with a daily blogging regimen. I have kept up with my Morning Pages, but I don't intend on being a receptacle for those. So what do I want to do with this site?
 
 As I mentioned, the primary purpose was simply to figure out how to use Jekyll and make static pages. I intend on doing more of that, with the intent of figuring out how to do more with the themes and config files. There is a lot to do though, so we'll see. Also, I plan on using this as a place to force myself to write regularly. Not a portfolio, but more a discussion of what I'm learning. I thought this would be a good place to give regular updates about what I'm trying to learn and how I'm going about doing it. This post will ramble a lot, sorry about that.
