@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Beginning again“
+title:  Beginning Again
 date:   2017-05-12 22:45:16 -0700
 categories: jekyll update
 ---
