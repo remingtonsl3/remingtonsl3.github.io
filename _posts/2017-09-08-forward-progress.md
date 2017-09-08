@@ -12,22 +12,22 @@ How does all that relate to my plans for this blog? Well, for one, my plan is to
 
 What are this areas I am going to track? Here's the current list. It will change.
 
-##Home
+## Home
 This is the "job" that needs to be done if any of this makes sense. Put all homemaker duties in here, along with landscaping, maintenance, network administration, etc. If I get a J-O-B, this stuff gets outsourced again. Every job I do is effectively tax-free income if we don't do this. 
 
-##Spanish
+## Spanish
 My wife and I are learning Spanish. We have traveled, and plan to travel, in Spanish-speaking countries. There is a better-than-even chance that we will spend some of our retirement somewhere where they speak Spanish. Our country has millions of Spanish speakers, and we'd like to be able to communicate with them. 
 
-##Tech Skills
+## Tech Skills
 I have quite a few practical skills, but I want a broader base. I'm starting with Free Code Camp, a tech bootcamp style program available for free. I expect that I'll do some other things as well. As one would expect, "tech skills" bleed over into a lot of things. If I develop an interest in something that requires more focus, I'll make its own topic. Publishing this blog, learning how to use git, Jekyll, and vim are all part of this skill. 
 
-##Health and Fitness
+## Health and Fitness
 I'm old and porky, and want to change that. I'll talk about diet and exercise here. Not planning to make this a food blog, but we'll see. 
 
-##Writing
+## Writing
 I do have a degree in Tech Writing, and a desire to make writing my career. This blog will see the result of some of this, but I'll also report on my other efforts to develop a career. 
 
-##Personsal Growth, Reading, Spirituality
+## Personsal Growth, Reading, Spirituality
 OK, this one will change, but at the beginning it will relate my reading, meditation, and rando self-help activities. This will certainly spawn other topics, but I'll use it as a catch-all for the moment. 
 
 Well, that will do for today. Tomorrow will be a brief one, but I'll try to get the formal straight.  
