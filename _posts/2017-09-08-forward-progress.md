@@ -3,7 +3,6 @@ layout: post
 title: Forward Progress
 date: 2017-09-08 12:45:00 -0700
 categories: journal
-published: false
 ---
 Since I last posted, things have changed a bit. I am not actively searching for work. I'm not *avoiding* looking a jobs, but it is not a priority. My wife and I are lucky enough to not need a second income right now, and there are definite benefits to my being able to match Emily's schedule and take care of things around here. My getting a job that locks me in to a schedule would pretty much trash our travel plans. Not that it couldn't be worth it, but it is a real opportunity cost that must be considered. 
 
@@ -11,7 +10,7 @@ From the outside, this looks like no change whatsoever. Not having a job and tak
 
 How does all that relate to my plans for this blog? Well, for one, my plan is to improve myself in several areas of my life. Most of these have been part of my life for a while, but I haven't moved forward on most of them. I am using this blog as an accountability measure. This will undoubtedly result in an annoying *Dear Diary* feel to it at the beginning, but since I expect the readership to hover somewhere in the 2 readers range (&plusmn;1), I'm not too worried. Still, it should be a useful tool for me. If this develops a different way, I'll delete the annoying crap. Initially, I plan on writing daily to report my status on the several areas I plan to work on. Perhaps this will switch to weekly reports, perhaps some topics will require full articles themselves. In fact, I might do some articles early on about each topic. However, the priority right now will be to regularly update the blog, which is something I have failed to do in past attempts.
 
-What are this areas I am going to track? Here's the current list.
+What are this areas I am going to track? Here's the current list. It will change.
 
 ##Home
 This is the "job" that needs to be done if any of this makes sense. Put all homemaker duties in here, along with landscaping, maintenance, network administration, etc. If I get a J-O-B, this stuff gets outsourced again. Every job I do is effectively tax-free income if we don't do this. 
