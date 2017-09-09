@@ -27,6 +27,9 @@ I'm old and porky, and want to change that. I'll talk about diet and exercise he
 ### Writing
 I do have a degree in Tech Writing, and a desire to make writing my career. This blog will see the result of some of this, but I'll also report on my other efforts to develop a career. 
 
+### Art & Creativity
+Yes, there is overlap here with tech skills, writing, etc., but I'm mainly talking here about things like drawing, music, and other things that fit under the traditional "art" umbrella.
+
 ### Personsal Growth, Reading, Spirituality
 OK, this one will change, but at the beginning it will relate my reading, meditation, and rando self-help activities. This will certainly spawn other topics, but I'll use it as a catch-all for the moment. 
 
