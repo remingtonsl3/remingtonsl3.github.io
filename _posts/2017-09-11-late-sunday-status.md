@@ -25,4 +25,4 @@ Did morning pages. A complete mess, but I did them.
 Went to the Against Me show. No personal activity.
 
 #### Personal Growth, Reading, Spirituality
-Finished *Pleasure of Reading in the Age of Distraction*. Great, inspiring. Have finished a couple chapters of <title>American Gods</title>. Also, I am on the fifth chapter of <title>Pride and Predjudice</title>, using Spreeder. I'm not sure what place speed reading has in my reading life, but I think it is worth knocking out a book or tow.
+Finished *Pleasure of Reading in the Age of Distraction*. Great, inspiring. Have finished a couple chapters of *American Gods*. Also, I am on the fifth chapter of *Pride and Predjudice*, using Spreeder. I'm not sure what place speed reading has in my reading life, but I think it is worth knocking out a book or tow.
