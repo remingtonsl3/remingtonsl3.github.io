@@ -1,3 +1,4 @@
+---
 layout: post
 title: Late Sunday Status
 date: 2017-09-11 00:49:00 -0700
