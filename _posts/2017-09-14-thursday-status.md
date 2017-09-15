@@ -2,7 +2,7 @@
 layout: post
 date: 2017-09-14 21:20:58 -0700
 title: Thursday Status
-categories:status
+categories: status
 ---
 
 Not to good of a job updating, but I've gotten a few things done.
